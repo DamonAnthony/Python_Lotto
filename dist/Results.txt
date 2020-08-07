@@ -1,0 +1,5 @@
+2020-08-06
+These are the lotto numbers [9, 11, 13, 33, 43, 47]
+These were your numbers [1, 2, 3, 4, 5, 6]
+This is the number of matches 0
+This is what you've won No prize
